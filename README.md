@@ -12,4 +12,4 @@ Dependencies: Axios
 
 Results:
 
-![Working result page](/my-app/results/working.png)
+![Working result page](/my-app/Results/Working.png)
