@@ -6,7 +6,10 @@ React App to display specific information from an API endpoint
 
 Instructions to run locally:
 
-Download the folder cd my-app npm install npm start
+1. Download the folder 
+2. cd my-app 
+3. npm install 
+4. npm start
 
 Dependencies: Axios
 
